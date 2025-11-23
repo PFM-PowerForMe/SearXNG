@@ -38,7 +38,7 @@ ui:
       - query_in_title
   
 valkey:
-  url: 'valkey://valkey:6379/0'
+  url: 'valkey://pfm-valkey:6379/3'
 
 search:
   safe_search: 0
